@@ -1,0 +1,34 @@
+_repo: Moorish-Literature--13-Comprising-Romantic-Ballads-Tales-of-the-Berbers-Stories-of-the-Kabyle__10085
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Basset, René
+    aliases:
+    - Basset, Rene
+    - Basset, René Marie Joseph
+    birthdate: 1855
+    deathdate: 1924
+    gutenberg_agent_id: '4756'
+    url: http://www.gutenberg.org/2009/agents/4756
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10085'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish literature -- Translations into English'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: Moorish ballads; metric translation by E. Wilson -- Moorish romances;
+  metrical translation by J. Lockhart -- Story of Sidi Brehim of Massab, tr. by R.
+  Basset and C.C. Starkweather -- Five Berber stories, tr. by G. Mercier and C.C.
+  Starkweather -- Poems of the Maghreb, tr. by M.C. Sonneck and C.C. Starkweather
+  -- Popular tales of the Berbers, tr. by R. Basset and C.C. Starkweather -- Popular
+  tales of the Kabyles, tr. by J. Rivière and C.C. Starkweather.
+title: "Moorish Literature\r\nComprising Romantic Ballads, Tales of the Berbers, Stories\
+  \ of the Kabyles, Folk-Lore, and National Traditions"
+url: http://www.gutenberg.org/ebooks/10085
