@@ -1,5 +1,8 @@
 _repo: Moorish-Literature--13-Comprising-Romantic-Ballads-Tales-of-the-Berbers-Stories-of-the-Kabyle__10085
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Basset, René
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '4756'
     url: http://www.gutenberg.org/2009/agents/4756
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10085#Moorish-Literature--13-Comprising-Romantic-Ballads-Tales-of-the-Berbers-Stories-of-the-Kabyle_
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
